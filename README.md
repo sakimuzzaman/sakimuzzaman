@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Md. Sakimuzzaman
+<img src="https://i.ibb.co/p6V6wYg/my-img-f.jpg" alt="Md. Sakimuzzaman" width="150" style="border-radius: 50%;" />
 
-### Frontend Developer | React & Next.js Enthusiast | JavaScript Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<h1>Md. Sakimuzzaman | Frontend Developer</h1>
+<h3>React & Next.js Enthusiast | JavaScript Developer</h3>
+<p>Transforming complex ideas into intuitive, performance-driven web applications.</p>
 
 </div>
 
