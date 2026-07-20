@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. YOUR PROFILE PHOTO (Replace the URL inside src with your actual uploaded image link) -->
-<img src="https://github.com/sakimuzzaman/sakimuzzaman/blob/main/github-banner-img.png" alt="Md. Sakimuzzaman" width="450" style="border-radius: 50%;" />
+<img src="https://github.com/sakimuzzaman/sakimuzzaman/blob/main/github-banner-img.png" alt="Md. Sakimuzzaman" width="650" style="border-radius: 50%;" />
 
 <!-- 2. ANIMATED TEXT SECTION -->
 <h1 align="center">
