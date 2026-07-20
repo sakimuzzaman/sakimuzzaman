@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://i.ibb.co/p6V6wYg/my-img-f.jpg" alt="Md. Sakimuzzaman" width="150" style="border-radius: 50%;" />
+<!-- 1. YOUR PROFILE PHOTO (Replace the URL inside src with your actual uploaded image link) -->
+<img src="https://github.com/sakimuzzaman/sakimuzzaman/blob/main/my-img-f.jpg" alt="Md. Sakimuzzaman" width="150" style="border-radius: 50%;" />
 
-<h1>Md. Sakimuzzaman | Frontend Developer</h1>
+<!-- 2. ANIMATED TEXT SECTION -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Md.+Sakimuzzaman;Frontend+Developer;React+%7C+Next.js+Specialist" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- 3. THREE-LINE DESCRIPTION -->
 <h3>React & Next.js Enthusiast | JavaScript Developer</h3>
 <p>Transforming complex ideas into intuitive, performance-driven web applications.</p>
+<p>Building responsive, scalable, and user-friendly interfaces with clean code.</p>
 
 </div>
 
